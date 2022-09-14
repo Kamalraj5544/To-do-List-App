@@ -1,0 +1,22 @@
+ul {
+  list-style: none;
+}
+li {
+  margin: 5px;
+  padding: 5px;
+}
+span {
+  content: "\27A2";
+}
+
+.listbtn {
+  margin: 10px;
+}
+
+.text {
+  text-decoration: none;
+}
+
+.textLine {
+  text-decoration: line-through;
+}
