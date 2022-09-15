@@ -3,10 +3,11 @@
 body {
   margin: 0;
   font-family: "Josefin Sans", cursive;
-  background-image: url("A:\Relevel\To-Do Application\usingReact\todoapp\low-poly-white-background-design_1017-33204.webp");
+  background-image: url("A:\Relevel\To-Do Application\TO-DO-LIST-APP\todoapp\pexels-moose-photos-1037993.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 code {

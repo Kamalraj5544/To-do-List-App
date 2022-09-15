@@ -7,7 +7,6 @@ import { TaskContextProvider } from "../Context/TaskContext";
 
 function TaskForm() {
   const [input, setinput] = useState("");
-  const [isEmpty, setisEmpty] = useState(false);
   const { addTask, searchTask } = useContext(TaskContextProvider);
 
   const inputHandler = (e) => {
